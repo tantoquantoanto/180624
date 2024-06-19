@@ -1,65 +1,69 @@
 h1 {
- color: blueviolet;   
-}
-
-nav span {
-    color: blueviolet;
-}
-
-.jumbotron a{
-    color: blueviolet;
-}
-
-.jumbotron + div > div:first-child{
-    color: chartreuse;
-}
-
-.blog-post:first-of-type {
-    color: blueviolet;
-}
-.blog-post:first-of-type hr{
-    background-color: red;
-}
-nav span:nth-child(odd){
-    color: red;
-}
-
-aside div:nth-child(2) a{
-    color: red;
-}
-
-.blog-post:nth-of-type(2) p:first-of-type a {
-    color: darkgoldenrod;
-}
-
-.blog-post:nth-of-type(3) li:nth-of-type(2) {
-    color: green;
-}
-
-.blog-post:nth-of-type(2) p:first-of-type a:hover {
-    color: red;
-}
-
-
-
-footer + a {
-    color: red;
-}
-
-
-.blog-pagination a.disabled {
-    color: red;
-}
-
-footer a:last-of-type {
-    color: red;
-}
-
-
-.hidden {
-    display: none;
-}
-
-aside:last-child li:nth-of-type(2) a{
+    color: blueviolet;   
+   }
+   
+   nav span {
+       color: blueviolet;
+   }
+   
+   .jumbotron a{
+       color: blueviolet;
+   }
+   
+   .jumbotron + div > div:first-child{
+       color: chartreuse;
+   }
+   
+   .blog-post:first-of-type {
+       color: blueviolet;
+   }
+   .blog-post:first-of-type hr{
+       background-color: red;
+   }
+   nav span:nth-child(odd){
+       color: red;
+   }
+   
+   aside div:nth-child(2) a{
+       color: red;
+   }
+   
+   .blog-post:nth-of-type(2) p:first-of-type a {
+       color: darkgoldenrod;
+   }
+   
+   .blog-post:nth-of-type(3) li:nth-of-type(2) {
+       color: green;
+   }
+   
+   .blog-post:nth-of-type(2) p:first-of-type a:hover {
+       color: red;
+   }
+   
+   
+   
+   footer + a {
+       color: red;
+   }
+   
+   
+   .blog-pagination a.disabled {
+       color: red;
+   }
+   
+   footer a:last-of-type {
+       color: red;
+   }
+   
+   
+   .hidden {
+       display: none;
+   }
+   
+   aside div:nth-of-type(3) ol li:nth-of-type(2) a{
+       color: red;
+   }
+   
+   .blog-pagination a:first-of-type{
     color: red;
 }
